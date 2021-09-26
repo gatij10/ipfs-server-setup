@@ -6,7 +6,7 @@ npm install
 
 Start express server
 ```
-npm start
+node app.js
 ```
 
 # Libraries Used
